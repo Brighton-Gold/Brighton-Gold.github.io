@@ -1,89 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Brighton Hatch's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Brighton Hatch
+Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:brighton.m.gold@gmail.com">brighton.m.gold@gmail.com</a>
+| <a href="https://www.linkedin.com/in/brighton-gold">LinkedIn</a>
+| <a href="https://github.com/Brighton-Gold">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Building software, learning continuously, and turning ideas into working systems.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software engineering, application development, quality assurance, and system design.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Programming languages, software architecture, databases, data organization, and game development.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Fall 2019 - Fall 2020`
+__Southern Virginia University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- B.A. Computer Science (coursework)
 
-- Sizar
+`July 2021 - Present`
+__Brigham Young University–Idaho__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- B.A. Software Engineering
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2021 - 2023`
+__Liberty Tax Service__, Waynesboro, VA
 
-- Warden
-- Minted coins
+- Manager
+- Receptionist
+- Tax Preparer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Fall 2023 - Winter 2023`
+__Brigham Young University–Idaho__, Rexburg, ID
 
+- Teacher’s Assistant, Intro to Programming
+
+`January 2020 - March 2020`
+__Von Canon Library__, Buena Vista, VA
+
+- Librarian Receptionist
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2025 -->
